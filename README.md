@@ -1,18 +1,27 @@
 🎬 Movie Genre Classification using NLP & Deep Learning
 
 🎯 Overview
+
 Ever wondered how streaming platforms categorize movies into different genres? This project leverages Natural Language Processing (NLP) and Deep Learning to automatically predict movie genres based on plot descriptions. By analyzing textual patterns, the model learns to classify movies into the right genres, making it useful for recommendation systems, content filtering, and metadata tagging.
 
 🚀 Technologies & Tools
+
 🔹 Programming Language: Python
+
 🔹 Libraries & Frameworks:
 
 Data Handling: pandas, numpy
+
 Visualization: matplotlib, seaborn
+
 NLP Processing: nltk (Stopwords Removal, Lemmatization), Tokenization, pad_sequences
+
 Machine Learning: scikit-learn (train-test split, evaluation metrics)
+
 Deep Learning: TensorFlow, Keras
+
 🔍 Approach & Methodology
+
 1️⃣ Data Preprocessing
 
 Cleaned and preprocessed the dataset (movie_data.csv) by removing noise, stopwords, and applying lemmatization.
